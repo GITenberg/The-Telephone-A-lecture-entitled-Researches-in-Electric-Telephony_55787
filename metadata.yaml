@@ -1,0 +1,29 @@
+_repo: The-Telephone-A-lecture-entitled-Researches-in-Electric-Telephony_55787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Alexander Graham
+    gutenberg_agent_id: '48508'
+    url: http://www.gutenberg.org/2009/agents/48508
+  editors:
+  - agent_name: Langdon, William Edward
+    gutenberg_agent_id: '48510'
+    url: http://www.gutenberg.org/2009/agents/48510
+  - agent_name: Bolton, Frank
+    gutenberg_agent_id: '48509'
+    url: http://www.gutenberg.org/2009/agents/48509
+description: ''
+gutenberg_issued: '2017-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Telephone
+
+  A lecture entitled Researches in Electric Telephony'
+url: http://www.gutenberg.org/ebooks/55787
